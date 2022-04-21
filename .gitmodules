@@ -1,0 +1,3 @@
+[submodule "2D-Shooting/Assets/NorLibUnity"]
+	path = 2D-Shooting/Assets/NorLibUnity
+	url = git@github.com:tacman/NorLibUnity.git
